@@ -1,0 +1,28 @@
+{
+  "name": "htpasswd-creator",
+  "version": "1.0.0",
+  "description": "small server for managing an .htpasswd file",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smikes/htpasswd-creator.git"
+  },
+  "keywords": [
+    "docker",
+    "htpasswd"
+  ],
+  "author": "Sam Mikes <smikes@cubane.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smikes/htpasswd-creator/issues"
+  },
+  "homepage": "https://github.com/smikes/htpasswd-creator#readme",
+  "devDependencies": {
+    "code": "~1.4.0",
+    "lab": "~5.13.0",
+    "rimraf": "~2.4.1"
+  }
+}
