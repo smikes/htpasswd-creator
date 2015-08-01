@@ -4,7 +4,8 @@
   "description": "small server for managing an .htpasswd file",
   "main": "index.js",
   "scripts": {
-    "test": "lab -c"
+    "test": "lab -c",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

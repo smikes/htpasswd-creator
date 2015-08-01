@@ -1,0 +1,4 @@
+FROM iojs
+
+EXPOSE 8000
+
